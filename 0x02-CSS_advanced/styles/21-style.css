@@ -13,16 +13,7 @@ html {
     display: table;
     clear: both;
 }
-
-[class^="col-"] {
-    float: left;
-    padding: calc(0.5 * var(--root-padding));
-}
   
-.col-1-3, .col-1-2 {
-    float: none;
-    padding: 0;
-}
 body {
     color: var(--text-color);
     font-family: var( --font-family-base);
@@ -141,14 +132,16 @@ ul.row {
 
 .col-1-3 {
     width: 33.33%;
-    float: left;
-    padding: 0.5rem;
 }
 
 .col-1-2 {
     width: 50%;
+}
+
+
+[class^="col-"] {
     float: left;
-    padding: 0.5rem;
+    Padding: 0.5rem;
 }
 
 .footer {
