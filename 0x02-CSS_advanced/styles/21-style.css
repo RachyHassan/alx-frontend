@@ -141,7 +141,7 @@ ul.row {
 
 [class^="col-"] {
     float: left;
-    Padding: 0.5rem;
+    padding: 0.5rem;
 }
 
 .footer {
