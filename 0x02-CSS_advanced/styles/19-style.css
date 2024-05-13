@@ -141,7 +141,7 @@ ul.row {
     text-align: var(--footer-align)
 }
 
-ul.footer {
+.footer ul {
     text-align: right;
 }
 
