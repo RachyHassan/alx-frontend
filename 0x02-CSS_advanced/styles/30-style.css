@@ -253,9 +253,9 @@ ul.row {
 
 .card-work .card-inner {
     position: absolute;
-    padding-top: -0.1rem;
-    padding-left: -0.1rem;
-    padding-right: -0.1rem;
+    top: -0.1rem;
+    left: -0.1rem;
+    right: -0.1rem;
     z-index: 1;
 }
 
