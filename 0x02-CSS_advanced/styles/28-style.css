@@ -231,6 +231,10 @@ ul.row {
     text-decoration: var(--button-text-decoration);
 }
 
+.header {
+    padding: var(--header-padding);
+}
+
 .button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
