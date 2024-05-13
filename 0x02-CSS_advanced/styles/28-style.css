@@ -231,18 +231,18 @@ ul.row {
     text-decoration: var(--button-text-decoration);
 }
 
-.header {
-    padding: var(--header-padding);
-}
-
 .button:hover {
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
 }
 
+.header {
+    padding: var(--header-padding);
+}
+
 .header-logo {
-    position: var(--header-logo-link-position);
+    position: var(--header-logo-position);
 }
 
 .header-logo a {
